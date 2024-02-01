@@ -10,5 +10,27 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "animalList":[
+    {"animalName":"Wombat, common",          "animalID":"AN01"},
+    {"animalName":"Gecko, bent-toed",        "animalID":"AN02"},
+    {"animalName":"Gecko, ring-tailed",      "animalID":"AN03"},
+    {"animalName":"Lizard, giant girdled",   "animalID":"AN04"},
+    {"animalName":"Lily trotter",            "animalID":"AN05"},
+    {"animalName":"Gecko (unidentified)",    "animalID":"AN06"},
+    {"animalName":"Black-winged stilt",      "animalID":"AN07"},
+    {"animalName":"Black and white colobus", "animalID":"AN08"},
+    {"animalName":"Gerbil (unidentified)",   "animalID":"AN09"},
+    {"animalName":"Whale, long-finned pilot","animalID":"AN10"},
+    {"animalName":"Ring-necked pheasant",    "animalID":"AN11"},
+    {"animalName":"African wild cat",        "animalID":"AN12"},
+    {"animalName":"Leopard",                 "animalID":"AN13"},
+    {"animalName":"Deer, black-tailed",      "animalID":"AN14"},
+    {"animalName":"Cape fox",                "animalID":"AN15"},
+    {"animalName":"Kaffir cat",              "animalID":"AN16"},
+    {"animalName":"Woodpecker, downy",       "animalID":"AN17"},
+    {"animalName":"Red-capped cardinal",     "animalID":"AN18"},
+    {"animalName":"Hawk-eagle, crowned",     "animalID":"AN19"},
+    {"animalName":"Cat, european wild",      "animalID":"AN20"}
+  ]
 }
